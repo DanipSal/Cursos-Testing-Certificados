@@ -7,3 +7,6 @@
 # Certificado Curso Testing Argentina Programa Infosis
 
 [![Certificado-Testing-QA-pptx-ARGENTINA-PROGRAMA.jpg](https://i.postimg.cc/Xv1bykg5/Certificado-Testing-QA-pptx-ARGENTINA-PROGRAMA.jpg)](https://postimg.cc/JyXgfJv7)
+
+# Certificado Curso Testing Automation
+[![Testing2-2da-ed-2025-Daniela-Salvo.png](https://i.postimg.cc/zfyXZ7QP/Testing2-2da-ed-2025-Daniela-Salvo.png)](https://postimg.cc/NywwR6B1)
